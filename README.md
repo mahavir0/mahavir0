@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **mahavirpatel0@gmail.com**
 
-- 📫  Born in Gujarat, India <img src="https://www.flaticon.com/free-icons/india" title="India" width="13"/>
+- 📫  Born in Gujarat, India <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
 
-- 📌  Living in Montreal, Quebec, Canada <img src="https://www.flaticon.com/free-icons/canada" title="Canada" width="13"/>
+- 📌  Living in Montreal, Quebec, Canada <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/>
 
 
 <h3 align="left">Connect with me:</h3>
