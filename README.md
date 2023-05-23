@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mahavir Patel</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahavir0&label=Profile%20views&color=0e75b6&style=flat" alt="mahavir0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahavir0&label=Profile%20views&color=0e75b6&style=flat" alt="mahavir0" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mahavir0"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mahavir0"> <img alt="GitHub" src="https://img.shields.io/github/license/mahavir0/mahavir0"></p>
+
 
 
 - 🌱 I’m currently pursing Master's in Applied Computer Science at <a href="https://www.concordia.ca/" target="blank">Concordia University</a>
