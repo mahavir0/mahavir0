@@ -33,7 +33,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahavir0" alt="mahavir0" /></a> </p>
 
-![snake svg](https://github.com/Nihar16/Nihar16/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/mahavir0/mahavir0/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 🚀 Some of my main projects:
