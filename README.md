@@ -170,8 +170,6 @@ Python                   1 repo              █░░░░░░░░░░�
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 -->
 <!--
-**minoveaz/minoveaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
