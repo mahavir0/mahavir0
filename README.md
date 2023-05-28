@@ -33,7 +33,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahavir0" alt="mahavir0" /></a> </p>
 
-https://github.com/mahavir0/mahvir0/blob/output/github-contribution-grid-snake-dark.svg
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahavir0/mahavir0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahavir0/mahavir0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahavir0/mahavir0/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <!--
 🚀 Some of my main projects:
