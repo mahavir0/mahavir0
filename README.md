@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Mahavir Patel</h1>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=300 width=420 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahavir0&label=Profile%20views&color=0e75b6&style=flat" alt="mahavir0" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/mahavir0"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/mahavir0"> </p>
 
